@@ -1,19 +1,19 @@
-# Storyshot
+# [Deprecated] Storyshot
 
 A tool for taking screenshots of Storybook components. It uses a headless browser (Playwright) to capture each story in Storybook and save the screenshot files.
 
 [한국어](./README.ko.md)
 
-## Installation
+## ~Installation~
 
-You can install Storyshot using npm:
+~You can install Storyshot using npm:~
 
 ```bash
 npm install @hawke0204/storyshot
 ```
 
-Or download the latest release from GitHub:
-https://github.com/hayk24/storyshot/releases
+~Or download the latest release from GitHub:~
+~https://github.com/geon2419/storyshot/releases~
 
 ## Usage
 
